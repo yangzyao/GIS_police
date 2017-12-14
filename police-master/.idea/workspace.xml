@@ -1,0 +1,789 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b6a3f9a1-4382-4f31-9009-168b069be2ef" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="app.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="114">
+              <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="userController.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/controller/userController.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-266">
+              <caret line="97" column="56" lean-forward="false" selection-start-line="97" selection-start-column="56" selection-end-line="97" selection-end-column="56" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="roleController.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/controller/roleController.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="171">
+              <caret line="9" column="24" lean-forward="false" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
+              <folding>
+                <marker date="1513223673090" expanded="true" signature="20215:20238" ph="{&quot;status&quot;: &quot;fail&quot;...}" />
+                <marker date="1513223673090" expanded="true" signature="20215:20256" ph="{...}" />
+                <marker date="1513223673090" expanded="true" signature="20215:20296" ph="{...}" />
+                <marker date="1513223673090" expanded="true" signature="20215:20306" ph="{...}" />
+                <marker date="1513223673090" expanded="true" signature="20215:20314" ph="{...}" />
+                <marker date="1513223673090" expanded="true" signature="20215:20495" ph="{...}" />
+                <marker date="1513223673090" expanded="true" signature="20325:20493" ph="{...}" />
+                <marker date="1513223673090" expanded="true" signature="20344:20485" ph="{...}" />
+                <marker date="1513223673090" expanded="true" signature="20391:20475" ph="{&quot;status&quot;: &quot;fail&quot;...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="speedController.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/controller/speedController.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="950">
+              <caret line="50" column="9" lean-forward="false" selection-start-line="50" selection-start-column="9" selection-end-line="50" selection-end-column="9" />
+              <folding>
+                <marker date="1513223673012" expanded="true" signature="117:260" ph="{...}" />
+                <marker date="1513223673012" expanded="true" signature="146:260" ph="{...}" />
+                <marker date="1513223673012" expanded="true" signature="176:260" ph="{...}" />
+                <marker date="1513223673012" expanded="true" signature="223:260" ph="{...}" />
+                <marker date="1513223673012" expanded="true" signature="3653:3666" ph="{...}" />
+                <marker date="1513223673012" expanded="true" signature="3653:3672" ph="{...}" />
+                <marker date="1513223673012" expanded="true" signature="3653:3676" ph="{...}" />
+                <marker date="1513223673012" expanded="true" signature="3722:3853" ph="{...}" />
+                <marker date="1513223673012" expanded="true" signature="3737:3849" ph="{&quot;code&quot;: code...}" />
+                <marker date="1513223673012" expanded="true" signature="3777:3843" ph="{&quot;status&quot;: &quot;fail&quot;...}" />
+                <marker date="1513223673012" expanded="true" signature="3890:4029" ph="{...}" />
+                <marker date="1513223673012" expanded="true" signature="3905:4025" ph="{...}" />
+                <marker date="1513223673012" expanded="true" signature="3944:4019" ph="{&quot;status&quot;: &quot;success&quot;...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="taskController.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/controller/taskController.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="266">
+              <caret line="716" column="50" lean-forward="true" selection-start-line="716" selection-start-column="50" selection-end-line="716" selection-end-column="50" />
+              <folding>
+                <marker date="1513252863325" expanded="true" signature="30183:34525" ph="{...}" />
+                <marker date="1513252863325" expanded="true" signature="30449:34491" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="task.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/router/task.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="231">
+              <caret line="307" column="31" lean-forward="false" selection-start-line="307" selection-start-column="31" selection-end-line="307" selection-end-column="31" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>请选择</find>
+      <find>editPC</find>
+      <find>login</find>
+      <find>check</find>
+      <find>checkpermission</find>
+      <find>listLogByMobile</find>
+      <find>rows</find>
+      <find>addCameraAttr</find>
+      <find>editCameraAttr</find>
+      <find>edit</find>
+      <find>pccamfblist</find>
+      <find>getCameraAttrs_APP</find>
+      <find>getTaskPC</find>
+      <find>multiAddCameras</find>
+      <find>pcca</find>
+      <find>uploadPc</find>
+      <find>getDepartmentPC</find>
+      <find>getrolelist</find>
+      <find>editMobileUser</find>
+      <find>userId</find>
+      <find>getSingleUserInfo</find>
+      <find>xl</find>
+      <find>模板</find>
+      <find>getUsers</find>
+      <find>getLogList</find>
+      <find>getMobileUsers</find>
+      <find>ins</find>
+      <find>insertLog</find>
+      <find>taskFeedBack</find>
+      <find>getTaskByIdAPP</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/router/carSelect.js" />
+        <option value="$PROJECT_DIR$/router/user.js" />
+        <option value="$PROJECT_DIR$/config/dbconfig.js" />
+        <option value="$PROJECT_DIR$/app.js" />
+        <option value="C:/xampp/htdocs/xiCheng/js/cameraOperations.js" />
+        <option value="$PROJECT_DIR$/router/task.js" />
+        <option value="domain.js" />
+        <option value="events.js" />
+        <option value="$PROJECT_DIR$/router/mobile.js" />
+        <option value="C:/xampp/htdocs/xiChengManage1/js/pepoleManagement.js" />
+        <option value="$PROJECT_DIR$/../police备份/police-master旧版代码/controller/logController.js" />
+        <option value="$PROJECT_DIR$/router/camera.js" />
+        <option value="C:/xampp/htdocs/xiChengManage2/pepoleManagement2.html" />
+        <option value="C:/xampp/htdocs/xiChengManage21/pepoleManagement2.html" />
+        <option value="C:/xampp/htdocs/xiChengManage2/car.html" />
+        <option value="C:/xampp/htdocs/xiChengManage2/js/config.js" />
+        <option value="C:/xampp/htdocs/xiChengManage21/js/config.js" />
+        <option value="C:/xampp/htdocs/xiChengManage21/js/attrManagement.js" />
+        <option value="$PROJECT_DIR$/controller/addrController.js" />
+        <option value="$PROJECT_DIR$/controller/carController.js" />
+        <option value="$PROJECT_DIR$/controller/departmentController.js" />
+        <option value="$PROJECT_DIR$/router/file.js" />
+        <option value="$PROJECT_DIR$/controller/logController.js" />
+        <option value="$PROJECT_DIR$/controller/roleController.js" />
+        <option value="$PROJECT_DIR$/controller/speedController.js" />
+        <option value="$PROJECT_DIR$/controller/mobileController.js" />
+        <option value="$PROJECT_DIR$/controller/interestPointController.js" />
+        <option value="$PROJECT_DIR$/controller/carSelectController.js" />
+        <option value="$PROJECT_DIR$/controller/cameraSelectController.js" />
+        <option value="$PROJECT_DIR$/controller/addressTestController.js" />
+        <option value="$PROJECT_DIR$/controller/actionController.js" />
+        <option value="$PROJECT_DIR$/controller/cameraController.js" />
+        <option value="$PROJECT_DIR$/controller/cameraFeedController.js" />
+        <option value="$PROJECT_DIR$/controller/carController.bak.js" />
+        <option value="$PROJECT_DIR$/controller/layerController.js" />
+        <option value="$PROJECT_DIR$/controller/layerDataController.js" />
+        <option value="$PROJECT_DIR$/controller/roleActionController.js" />
+        <option value="$PROJECT_DIR$/controller/userController.js" />
+        <option value="$PROJECT_DIR$/controller/taskController.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1380" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="police-master" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="police-master" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="police-master" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="police-master" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="router" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="nodejs_interpreter_path" value="D:/nodejs/node" />
+    <property name="node.js.path.for.package.jscs" value="project" />
+    <property name="node.js.selected.package.jscs" value="" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Node.js.app.js">
+    <configuration default="false" name="app.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="D:/new/anzhuang/node" path-to-js-file="app.js" working-dir="$PROJECT_DIR$">
+      <EXTENSION ID="com.jetbrains.nodejs.remote.docker.NodeJSDockerRunConfigurationExtension">
+        <option name="envVars">
+          <list />
+        </option>
+        <option name="extraHosts">
+          <list />
+        </option>
+        <option name="links">
+          <list />
+        </option>
+        <option name="networkDisabled" value="false" />
+        <option name="networkMode" value="bridge" />
+        <option name="portBindings">
+          <list />
+        </option>
+        <option name="publishAllPorts" value="false" />
+        <option name="version" value="1" />
+        <option name="volumeBindings">
+          <list />
+        </option>
+      </EXTENSION>
+      <method />
+    </configuration>
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <method />
+    </configuration>
+    <configuration default="true" type="DartTestRunConfigurationType" factoryName="Dart Test">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="cucumber.js" factoryName="Cucumber.js">
+      <option name="cucumberJsArguments" value="" />
+      <option name="executablePath" />
+      <option name="filePath" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="Node.js.app.js" />
+    </list>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="Node.js.app.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration" cleanupOnStartRun="true">
+    <configuration>C:\Users\Administrator\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b6a3f9a1-4382-4f31-9009-168b069be2ef" name="Default" comment="" />
+      <created>1512202700718</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1512202700718</updated>
+      <workItem from="1512202702000" duration="7940000" />
+      <workItem from="1512284716890" duration="9130000" />
+      <workItem from="1512377605507" duration="101000" />
+      <workItem from="1512397182130" duration="938000" />
+      <workItem from="1512400619010" duration="7257000" />
+      <workItem from="1512426632898" duration="550000" />
+      <workItem from="1512462551954" duration="942000" />
+      <workItem from="1512529047066" duration="12687000" />
+      <workItem from="1512713536779" duration="11326000" />
+      <workItem from="1512888290715" duration="2190000" />
+      <workItem from="1512962981010" duration="45802000" />
+      <workItem from="1513149496299" duration="24981000" />
+      <workItem from="1513238639281" duration="4124000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="127968000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1380" height="744" extended-state="1" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15615836" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293011" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293011" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2992126" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.09632446" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293011" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31023622" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293011" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="18" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/node_modules/voc/marked.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22762">
+          <caret line="1202" column="4" lean-forward="false" selection-start-line="1202" selection-start-column="4" selection-end-line="1202" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/xampp/htdocs/xiChengManage2/js/pepoleManagement.js" />
+    <entry file="file://$PROJECT_DIR$/node_modules/mysql/lib/protocol/Parser.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="314" column="2" lean-forward="false" selection-start-line="314" selection-start-column="2" selection-end-line="314" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/xampp/htdocs/xiChengManage2/js/config.js" />
+    <entry file="file://C:/xampp/htdocs/xiChengManage21/attrManagement.html" />
+    <entry file="file://C:/xampp/htdocs/xiChengManage21/js/config.js" />
+    <entry file="file://C:/xampp/htdocs/xiChengManage21/js/attrManagement.js" />
+    <entry file="file://$PROJECT_DIR$/node_modules/xmlreader/xmlreader.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/request.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="3" column="9" lean-forward="false" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/router/user.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="25" lean-forward="true" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/router/speed.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="22" lean-forward="false" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/router/role.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="302">
+          <caret line="53" column="34" lean-forward="false" selection-start-line="53" selection-start-column="34" selection-end-line="53" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/router/mobile.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="14" lean-forward="true" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/router/map.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/router/layer.js" />
+    <entry file="file://$PROJECT_DIR$/router/interestPoint.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="33" lean-forward="true" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/router/file.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-258">
+          <caret line="176" column="86" lean-forward="false" selection-start-line="176" selection-start-column="86" selection-end-line="176" selection-end-column="86" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/router/department.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="30" lean-forward="false" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/router/demo.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="9" column="24" lean-forward="false" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/router/carSelect.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="87" column="30" lean-forward="true" selection-start-line="87" selection-start-column="30" selection-end-line="87" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/router/car.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="32" column="23" lean-forward="false" selection-start-line="32" selection-start-column="23" selection-end-line="32" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/router/car.bak.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="20" column="24" lean-forward="true" selection-start-line="20" selection-start-column="24" selection-end-line="20" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/router/cameraSelect.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="11" column="37" lean-forward="false" selection-start-line="11" selection-start-column="37" selection-end-line="11" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/router/camera.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="25" column="27" lean-forward="false" selection-start-line="25" selection-start-column="27" selection-end-line="25" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/router/addressTest.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="26" lean-forward="true" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/router/log.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="18" column="24" lean-forward="true" selection-start-line="18" selection-start-column="24" selection-end-line="18" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/router/address.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="169">
+          <caret line="12" column="30" lean-forward="true" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controller/actionController.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="55">
+          <caret line="484" column="39" lean-forward="false" selection-start-line="484" selection-start-column="39" selection-end-line="484" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controller/addrController.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="9" lean-forward="false" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controller/addressTestController.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="24" column="79" lean-forward="false" selection-start-line="24" selection-start-column="79" selection-end-line="24" selection-end-column="79" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controller/cameraAsync.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1018">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controller/cameraController.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1254">
+          <caret line="66" column="67" lean-forward="false" selection-start-line="66" selection-start-column="67" selection-end-line="66" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controller/cameraFeedController.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1427">
+          <caret line="258" column="77" lean-forward="false" selection-start-line="258" selection-start-column="77" selection-end-line="258" selection-end-column="77" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controller/cameraSelectController.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="226">
+          <caret line="394" column="74" lean-forward="false" selection-start-line="394" selection-start-column="74" selection-end-line="394" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controller/carController.bak.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="276" column="42" lean-forward="false" selection-start-line="276" selection-start-column="42" selection-end-line="276" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controller/carController.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-13506">
+          <caret line="58" column="41" lean-forward="false" selection-start-line="58" selection-start-column="32" selection-end-line="58" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controller/carSelectController.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5909">
+          <caret line="311" column="74" lean-forward="false" selection-start-line="311" selection-start-column="74" selection-end-line="311" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controller/demoController.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="26" column="7" lean-forward="true" selection-start-line="26" selection-start-column="7" selection-end-line="26" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controller/departmentController.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7697">
+          <caret line="5" column="9" lean-forward="false" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controller/interestPointController.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3477">
+          <caret line="184" column="66" lean-forward="false" selection-start-line="184" selection-start-column="66" selection-end-line="184" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controller/layerController.js" />
+    <entry file="file://$PROJECT_DIR$/controller/layerDataController.js" />
+    <entry file="file://$PROJECT_DIR$/controller/logController.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4615">
+          <caret line="283" column="29" lean-forward="false" selection-start-line="283" selection-start-column="20" selection-end-line="283" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controller/mobileController.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="74">
+          <caret line="193" column="80" lean-forward="false" selection-start-line="193" selection-start-column="80" selection-end-line="193" selection-end-column="80" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controller/roleActionController.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-9383">
+          <caret line="90" column="53" lean-forward="false" selection-start-line="90" selection-start-column="44" selection-end-line="90" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controller/roleController.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="24" lean-forward="false" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
+          <folding>
+            <marker date="1513223673090" expanded="true" signature="20215:20238" ph="{&quot;status&quot;: &quot;fail&quot;...}" />
+            <marker date="1513223673090" expanded="true" signature="20215:20256" ph="{...}" />
+            <marker date="1513223673090" expanded="true" signature="20215:20296" ph="{...}" />
+            <marker date="1513223673090" expanded="true" signature="20215:20306" ph="{...}" />
+            <marker date="1513223673090" expanded="true" signature="20215:20314" ph="{...}" />
+            <marker date="1513223673090" expanded="true" signature="20215:20495" ph="{...}" />
+            <marker date="1513223673090" expanded="true" signature="20325:20493" ph="{...}" />
+            <marker date="1513223673090" expanded="true" signature="20344:20485" ph="{...}" />
+            <marker date="1513223673090" expanded="true" signature="20391:20475" ph="{&quot;status&quot;: &quot;fail&quot;...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controller/speedController.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="950">
+          <caret line="50" column="9" lean-forward="false" selection-start-line="50" selection-start-column="9" selection-end-line="50" selection-end-column="9" />
+          <folding>
+            <marker date="1513223673012" expanded="true" signature="117:260" ph="{...}" />
+            <marker date="1513223673012" expanded="true" signature="146:260" ph="{...}" />
+            <marker date="1513223673012" expanded="true" signature="176:260" ph="{...}" />
+            <marker date="1513223673012" expanded="true" signature="223:260" ph="{...}" />
+            <marker date="1513223673012" expanded="true" signature="3653:3666" ph="{...}" />
+            <marker date="1513223673012" expanded="true" signature="3653:3672" ph="{...}" />
+            <marker date="1513223673012" expanded="true" signature="3653:3676" ph="{...}" />
+            <marker date="1513223673012" expanded="true" signature="3722:3853" ph="{...}" />
+            <marker date="1513223673012" expanded="true" signature="3737:3849" ph="{&quot;code&quot;: code...}" />
+            <marker date="1513223673012" expanded="true" signature="3777:3843" ph="{&quot;status&quot;: &quot;fail&quot;...}" />
+            <marker date="1513223673012" expanded="true" signature="3890:4029" ph="{...}" />
+            <marker date="1513223673012" expanded="true" signature="3905:4025" ph="{...}" />
+            <marker date="1513223673012" expanded="true" signature="3944:4019" ph="{&quot;status&quot;: &quot;success&quot;...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controller/userController.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-266">
+          <caret line="97" column="56" lean-forward="false" selection-start-line="97" selection-start-column="56" selection-end-line="97" selection-end-column="56" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/router/task.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="307" column="31" lean-forward="false" selection-start-line="307" selection-start-column="31" selection-end-line="307" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controller/taskController.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="716" column="50" lean-forward="true" selection-start-line="716" selection-start-column="50" selection-end-line="716" selection-end-column="50" />
+          <folding>
+            <marker date="1513252863325" expanded="true" signature="30183:34525" ph="{...}" />
+            <marker date="1513252863325" expanded="true" signature="30449:34491" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
